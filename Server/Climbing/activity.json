@@ -1,0 +1,23 @@
+[
+	{
+		"activity": "Escalada",
+		"description": "La escalada, en montañismo, es una actividad que consiste en realizar ascensos sobre paredes de fuerte pendiente, valiéndose de la fuerza física y mental propia. Se considera escalada todo ascenso ya sea fácil, difícil o imposible de realizar (según el estado físico de la persona) con las extremidades inferiores (pies y piernas, en algunos casos también se podría llegar a utilizar la rodilla, por si hubiera alguna pared al lado) y las extremidades superiores (brazos y manos). En la escalada hay alturas que implican un peligro considerable y con el objetivo de tener seguridad se utiliza equipo de protección.\nTIPOS DE ESCALADA:\n\nEscalada en interior. También conocida así porque se ocupa la parte interior de la roca o pared, fisuras por lo general:\n\t\tEscalada en rocódromo usando cuerda (no confundir con la escalada interior)\n\t\tEscalada en salas de búlder\n\t\tEscalada en boulder (no necesariamente en salas)\n\nEscalada en exterior. Según la fisonomía de la roca se subdivide en:\n\t\tEscalada en roca\n\t\tEscalada alpina. Se lleva a cabo en alta montaña, con todas las implicaciones del medio (clima, altitud, presión atmosférica)\n\t\tEscalada en hielo\n\t\tBigWall o grandes paredes.\n\t\tEscalada mixta (roca y hielo).\n\t\tPsicobloc. Escalada sin cuerda en acantilados sobre agua (mar o lagos)\n\t\tEscalada urbana. Se practica en los grandes edificios de las ciudades. Suele hacerse en solitario y suele ser ilegal en muchos países.\n\t\tEscalada de adherencia. Se realiza en las paredes no completamente verticales que no disponen de presas de pie y de mano.",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Activity/escalada.jpg"
+	},{
+		"activity": "Barranquismo",
+		"description": "Deporte de aventura que se practica en los cañones o barrancos de un río, pudiendo presentar un recorrido muy variado: se encuentran terrenos de vegetación o desérticos, también se encuentran tramos con poco caudal e incluso secos, el torrentismo consiste en ir superando estos cambios de recorrido : caminando, nadando y destrepando. En el equipamiento, la persona debe tener como mínimo, un casco, un traje de neopreno , escarpines de neopreno, calzado adecuado, bloqueadores mecánicos, pedal, navaja, silbato y mochila",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Activity/Barranquismo.jpg"
+	},{
+		"activity": "Rápel",
+		"description": "Es un sistema de descenso por superficies verticales. Se utiliza en lugares donde el descenso de otra forma es complicado, o inseguro.\nEl rápel es el sistema de descenso autónomo más ampliamente utilizado, ya que para realizar un descenso sólo se requiere, -además de conocer la técnica adecuada-, llevar consigo el arnés y un descensor. El rápel es utilizado en excursionismo, montañismo, escalada en roca, espeleología, barranquismo y otras actividades que requieren ejecutar descensos verticales.\nEl rápel también es utilizado en rescate, tanto en los medios naturales como en los urbanos, así como en operaciones militares.",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Activity/rapel.jpg"
+	},{
+		"activity": "Raquetas de Nieve",
+		"description": "Las raquetas de nieve son unos utensilios que se acoplan a las botas y sirven para desplazarse con más comodidad y rapidez sobre terreno nevado o helado, utilizándose sobre todo en la práctica del senderismo, montañismo o alpinismo en invierno. Distribuyen el peso de la persona sobre una superficie más grande de manera que el pie no se hunda completamente en la nieve, como consecuencia del que se llama «flotación».",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Activity/snowshoes.jpg"
+	},{
+		"activity": "Vías Ferratas",
+		"description": "Es un itinerario tanto vertical como horizontal (franqueo) equipado con diverso material: clavos, grapas, presas, pasamanos, cadenas, puentes colgantes y tirolinas, que permiten el llegar con seguridad a zonas de difícil acceso para senderistas o no habituados a la escalada. La seguridad corre a cargo de un cable de acero instalado en toda la vía y el arnés provisto de un disipador de energía y mosquetones especiales de vía ferrata (marcados con una k) que aseguran en caso de caída. La zona clásica de vías ferratas se encuentra en los Dolomitas, los Alpes Italianos, aunque también las encontramos en gran número en Francia, Suiza, Alemania y poco a poco en España.",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Activity/via-ferrata.jpg"
+	}
+]

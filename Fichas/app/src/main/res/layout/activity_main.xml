@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/intro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/ok"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/editText"
+        android:layout_marginTop="34dp"
+        android:text="Actividad:" />
+
+    <CheckBox
+        android:id="@+id/easy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/medium"
+        android:layout_below="@+id/editText"
+        android:layout_marginTop="20dp"
+        android:text="@string/easy"
+        android:textSize="18dp" />
+
+    <CheckBox
+        android:id="@+id/medium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editText"
+        android:layout_below="@+id/easy"
+        android:layout_marginStart="60dp"
+        android:text="@string/medium"
+        android:textSize="18dp" />
+
+    <CheckBox
+        android:id="@+id/hard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/medium"
+        android:layout_below="@+id/medium"
+        android:text="@string/hard"
+        android:textSize="18dp" />
+
+    <Spinner
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/intro"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:padding="20dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/ok"
+        android:layout_alignBottom="@+id/ok"
+        android:layout_marginStart="30dp"
+        android:layout_toEndOf="@+id/medium"
+        android:background="@mipmap/add"
+        android:padding="30dp"
+        android:paddingEnd="10dp" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/hard"
+        android:layout_below="@+id/hard"
+        android:layout_marginTop="45dp"
+        android:background="@mipmap/accept"
+        android:padding="50dp"
+        android:paddingEnd="70dp"
+        android:textAlignment="center" />
+
+</RelativeLayout>

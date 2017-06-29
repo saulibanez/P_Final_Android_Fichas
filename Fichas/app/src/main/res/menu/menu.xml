@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/who_is"
+        android:title="Información">
+        <menu>
+            <item android:id="@+id/climbing"
+                android:title="Escalada"/>
+            <item android:id="@+id/canyoning"
+                android:title="Barranquismo"/>
+            <item android:id="@+id/rapel"
+                android:title="Rápel"/>
+            <item android:id="@+id/snowshoe"
+                android:title="Raqueta de nieve"/>
+            <item android:id="@+id/ferrata_roads"
+                android:title="Vías ferratas"/>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,204 @@
+[		
+	{
+		"activity": "Escalada",
+		"latitude": "40.747991",
+		"longitude": "-3.8802120",
+		"city": "Madrid",
+		"zone": "Sierra de Guadarrama - La Pedriza - Sistema Central.",
+		"description": "Ascensión el Yelmo 1.717 m circular desde El Tranco, ascenso a cumbre por Vía Valentina descenso por Chimenea, Corral Ciego, Jardín del Predicador y Hueco de las Hoces.",
+		"level": "moderado",
+		"time": "8h",
+		"distance": "11.79km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Escalada/guadarrama.jpg"
+
+	},{
+		"activity": "Escalada",
+		"latitude": "40.7494597",
+		"longitude": "-3.897407899999962",
+		"city": "Madrid",
+		"zone": "Sierra de Guadarrama - La Pedriza - Sistema Central.",
+		"description": "Ruta El Laberinto desde Canto cochino, Rutas en la Pedriza",
+		"level": "moderado",
+		"time": "6h",
+		"distance": "8.84km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Escalada/laberinto.jpg"
+	},{
+		"activity": "Escalada",
+		"latitude": "40.7523955",
+		"longitude": "-3.9942610000000514",
+		"city": "Madrid",
+		"zone": "Sierra de Guadarrama - La Pedriza - Sistema Central.",
+		"description": "Peña del Cuco en el Valle de la Baranca (Navacerrada)",
+		"level": "fácil",
+		"time": "6h",
+		"distance": "7.38km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Escalada/navacerrada.jpg"
+	},{
+		"activity": "Escalada",
+		"latitude": "40.7494597",
+		"longitude": "-3.897407899999962",
+		"city": "Madrid",
+		"zone": "Pared sur del Pico del Nevero.",
+		"description": "Zona poco frecuentada y bastante solitaria en comparación con otras de la sierra de Madrid, muy recomendable para practicar escalada clásica y con muy buenas vistas del valle de Lozoya y toda la sierra.",
+		"level": "fácil",
+		"time": "5:10h",
+		"distance": "7.69km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Escalada/terrazas2.jpg"
+	},{
+		"activity": "Escalada",
+		"latitude": "40.758251",
+		"longitude": "-3.9933000",
+		"city": "Madrid",
+		"zone": "Sierra de Guadarrama - Editorial Alpina",
+		"description": "La Peña del Cuco es un contrafuerte apoyado en la ladera suroeste del Alto de Guarramillas, está dentro de lo que se conoce como Garganta del Infierno.",
+		"level": "difícil",
+		"time": "5:13h",
+		"distance": "8.05km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Escalada/yelmo3.jpg"
+	},{
+		"activity": "Barranquismo",
+		"latitude": "39.54255879999999",
+		"longitude": "-1.5168621000000257",
+		"city": "Madrid",
+		"zone": "Parque Natural de las Hoces del Cabriel.",
+		"description": "sobrecogedores paisajes cortados por la acción erosiva del agua conformando paredes de roca, toboganes y diversos saltos, se recomienda ir equipados con arneses y cuerdas",
+		"level": "fácil",
+		"time": "3h",
+		"distance": "1.56km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Barranquismo/hoces.jpg"
+	},{
+		"activity": "Barranquismo",
+		"latitude": "41.2713395",
+		"longitude": "-3.754170799999997",
+		"city": "Madrid",
+		"zone": "Puerto de Somosierra, Parque Natural de las Hoces del Cabriel.",
+		"description": "Descender de forma total el barranco y cascadas del nacimiento del río Duratón, con  rapeles de hasta 30 metros, saltos y toboganes.",
+		"level": "moderado",
+		"time": "3h",
+		"distance": "1.34km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Barranquismo/cabriel.jpg"
+	},{
+		"activity": "Barranquismo",
+		"latitude": "41.1457524",
+		"longitude": "-3.5727554000000055",
+		"city": "Madrid",
+		"zone": "Cascadas del Duraton/Barranco de Somosierra.",
+		"description": "Barranco de caracter abierto y con escapes en todos los rápeles, barranco que por la disposición de los rapeles, accesos mediante repisas, pasamanos, puntos de re-aseguro, requiere de técnicas avanzadas para su realización, por lo que se recomienda deportistas con los conocimientos y equipo adecuado",
+		"level": "difícil",
+		"time": "4:46h",
+		"distance": "3.06km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Barranquismo/duraton.jpg"
+	},{
+		"activity": "Rápel",
+		"latitude": "40.397924",
+		"longitude": "-4.415215999999987",
+		"city": "Madrid",
+		"zone": "Indiana parque recreativo natural - San Martin De Valdeiglesias.",
+		"description": "Habremos subido a ella mediante la escalada pero después ¡hay que volver a bajar! Por un lado, porque podemos estar cansados, y por otro, porque es un buen momento para cambiar de disciplina, te aseguraremos bien al arnés que ya llevarás puesto para bajar de forma controlada.",
+		"level": "fácil",
+		"time": "4h",
+		"distance": "-",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/rapel/indiana.jpg"
+	},{
+		"activity": "Rápel",
+		"latitude": "40.600727",
+		"longitude": "-3.7079744999999775",
+		"city": "Madrid",
+		"zone": "Tres Cantos.",
+		"description": "-",
+		"level": "fácil",
+		"time": "3h",
+		"distance": "-",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/rapel/tres.jpg"
+	},{
+		"activity": "Rápel",
+		"latitude": "40.8114262",
+		"longitude": "-3.765784800000006",
+		"city": "Madrid",
+		"zone": "Miraflores De La Sierra.",
+		"description": "Podemos llegar a un desnivel de 44 metros pero podemos ir por tramos o quedarnos a una altura menor para que esta experiencia no respresente un reto por encima de tus posibilidades.",
+		"level": "fácil",
+		"time": "3h",
+		"distance": "-",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/rapel/sierra.jpg"
+	},{
+		"activity": "Raquetas de Nieve",
+		"latitude": "40.8509017",
+		"longitude": "-3.9499711999999363",
+		"city": "Madrid",
+		"zone": "Puerto de Navacerrada, Sierra de Guadarrama, Madrid.",
+		"description": "-",
+		"level": "fácil",
+		"tiempo": "5h",
+		"distance": "8km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/raquetas/myegoo_7picos2_s.jpg"
+	},{
+		"activity": "Raquetas de Nieve",
+		"latitude": "40.8509017",
+		"longitude": "-3.9499711999999363",
+		"city": "Madrid",
+		"zone": "Puerto de Navacerrada, Sierra de Guadarrama, Madrid.",
+		"description": "-",
+		"level": "moderado",
+		"tiempo": "4:45h",
+		"distance": "9km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/raquetas/myegoo_raquetas3_s.jpg"
+	},{
+		"activity": "Raquetas de Nieve",
+		"latitude": "40.8509017",
+		"longitude": "-3.9499711999999363",
+		"city": "Madrid",
+		"zone": "Puerto de Navacerrada, Sierra de Guadarrama, Madrid.",
+		"description": "-",
+		"level": "difícil",
+		"tiempo": "9h",
+		"distance": "13km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/raquetas/myegoo_raquetas3_s.jpg"
+	},{
+		"activity": "Vías Ferratas",
+		"latitude": "40.7297751",
+		"longitude": "-3.9194003999999723",
+		"city": "Madrid",
+		"zone": "Ruta de las Cabras.",
+		"description": "Desde la ermita del Boalo ascendemos la peña del mediodía por la ruta de las cabras, en todo momento tira hacia arriba y que se complica, aún más, en el último momento al tener que superar un tramo de clavijas. Para volver se desciende entre los pinos hacia la pista que llevaría a Quebrantaherraduras para posteriormente atajar por un sendero que circunvala la peña que lleva de vuelta a la ermita.",
+		"level": "difícil",
+		"time": "3:21h",
+		"distance": "6.09km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Ferrata/cabras.jpg"
+	},{
+		"activity": "Vías Ferratas",
+		"latitude": "40.7355099",
+		"longitude": "-3.945337699999982",
+		"city": "Madrid",
+		"zone": "Mataelpino.",
+		"description": "-",
+		"level": "moderado",
+		"time": "5h",
+		"distance": "5,75km",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Ferrata/vista_mataelpino1.jpg"
+	},{
+		"activity": "Vías Ferratas",
+		"latitude": "-",
+		"longitude": "-",
+		"city": "Madrid",
+		"zone": "El Ranero - Centro.",
+		"description": "Un paso de cueva y una sucesión de puentes tibetanos que nos dejaran al pié de una escala vertical , hacen de esta nueva  vía ferrata, un recorrido entretenido para los amantes y principiantes de esta actividad.",
+		"level": "fácil",
+		"time": "-",
+		"distance": "-",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Ferrata/cabras3.jpg"
+	},{
+		"activity": "Vías Ferratas",
+		"latitude": "-",
+		"longitude": "-",
+		"city": "Madrid",
+		"zone": "Pasarela de Espeja - Centro.",
+		"description": "Fue la primera instalación de estas características en la zona centro, pero su corto recorrido y la calidad de la instalación , hizo que pasara al olvido. Se trata de una canal equipada en un barranco , con grapas, puentes tibetanos y  pasos atléticos  ,haciendo que sea considerada una de las mas fuertes de la zona centro  y ahora equipada con una tirolina de mas de 30 mts",
+		"level": "moderado",
+		"time": "-",
+		"distance": "-",
+		"photo": "/home/alumnos/sibanez/workspace/Server/Climbing/Ferrata/pasarela2.jpg"
+	}
+,{"activity":"Escalada","distance":"-40000000000000000000000000000000000000000","level":"difícil","city":"MAdrid","zone":"Madird","latitude":"37.421998333333335","description":"paco","photo":"null","time":"45","longitude":"-122.08400000000002"}
+,{"activity":"Escalada","distance":"ghgrth","level":"fácil","city":"asgerag","zone":"dfr","latitude":"-","description":"frgter","photo":"null","time":"freger","longitude":"-"}
+]
